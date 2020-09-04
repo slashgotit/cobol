@@ -14,4 +14,5 @@ In this section, you will learn how to:
 Common business oriented languages
 data processing, ease of reading writing,")
 
-print(" hello world of cobol");
+print(" hello world of cobol
+https://learn.ibm.com/mod/video/view.php?id=125990&forceview=1
