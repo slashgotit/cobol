@@ -1,0 +1,9 @@
+
+
+How to collaborate in the team during this time of covid and you are working from home just like everyone else.
+
+Here is the thing. You are coding and developing and of course you are editing all day all night and one day you find this need to share the work and there is this team of 5 of you working on certain project. Your task is to fit your work into this pipeline and you are given repository where your work needs to be deposited.
+
+Ok i get you are super coder and vi or vim is your thing in Linux or you are cool with IDE and you use VS code. But this is not where i am going.
+
+I am here to tell you about atom the plugins into github. 
